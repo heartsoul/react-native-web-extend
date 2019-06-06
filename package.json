@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "Soul"
+  },
+  "bugs": {
+    "url": "https://github.com/heartsoul/babel-plugin-react-native-web-extend/issues"
+  },
+  "description": " React Native for Web",
+  "homepage": "https://github.com/heartsoul/babel-plugin-react-native-web-extend#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-web-extend",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/heartsoul/babel-plugin-react-native-web-extend.git"
+  },
+  "peerDependencies": {
+    "react-natvie":"",
+    "react": "",
+    "prop-types": ""
+  },
+  "version": "0.0.1"
+}
