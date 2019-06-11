@@ -8,7 +8,8 @@
  */
 
 import { TouchableOpacity } from 'react-native';
-import { DeviceEventEmitter } from '../DeviceEventEmitter';
+
+const DeviceEventEmitter = require('../DeviceEventEmitter/index');
 
 const DEVICE_BACK_EVENT = 'hardwareBackPress';
 
