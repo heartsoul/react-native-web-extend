@@ -18,9 +18,6 @@
     "url": "git://github.com/heartsoul/babel-plugin-react-native-web-extend.git"
   },
   "peerDependencies": {
-    "react-natvie":"",
-    "react": "",
-    "prop-types": ""
   },
   "version": "0.0.1"
 }
